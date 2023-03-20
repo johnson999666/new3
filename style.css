@@ -70,8 +70,9 @@ body {
   }
   
   .line {
-    margin: 50px;
-    border-bottom: 1px solid #F5B7B1;;
+    margin: 10px;
+    border-bottom: 1px solid #F5B7B1;
+    padding: 40px;
   }
   
 
