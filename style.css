@@ -5,6 +5,14 @@ h1 {
     color: #191970;
   }
 
+h2 {
+    font-size: 3rem;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    font-family: Arial Black (sans-serif);
+    color: #191970;
+}
+
+
 .title {
     display: flex;
     align-items: center;
@@ -61,3 +69,16 @@ body {
     content: "\f015";
   }
   
+  .line {
+    margin: 50px;
+    border-bottom: 1px solid #F5B7B1;;
+  }
+  
+
+.title2 {
+    display: flex;
+}
+
+#title2 {
+    justify-content: left;
+}
