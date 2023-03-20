@@ -10,6 +10,7 @@ h2 {
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
     font-family: Arial Black (sans-serif);
     color: #191970;
+    margin: 50px;
 }
 
 
@@ -67,12 +68,15 @@ body {
   
   .fa-home:before {
     content: "\f015";
+    
   }
   
   .line {
     margin: 10px;
     border-bottom: 1px solid #F5B7B1;
     padding: 40px;
+ 
+   
   }
   
 
