@@ -46,19 +46,7 @@ body {
     padding: 0;
     
   }
-.info {
-    display: flex;
-}
-#info {
-   
-    
-    margin-left: 150px;
-    margin-right: 150px;
-    
-   
-   text-align: center;
-   font-family: 'Indie Flower', cursive;
-}
+
 .sticky-home {
     position: fixed;
     bottom: 20px;
@@ -120,7 +108,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    padding-bottom: 50px;
+    
 }
 
 
@@ -136,4 +124,24 @@ body {
     box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
     
   }
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+    
+  }
   
+  .bio {
+
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 10px;
+    text-align: center;
+    max-width: 600px;
+    width: 90%;
+    
+    
+  }
+  
+
