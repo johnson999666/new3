@@ -50,17 +50,12 @@ body {
     display: flex;
 }
 #info {
-    padding-left: 75px;
-    padding-right: 75px;
+   
     
     margin-left: 150px;
     margin-right: 150px;
     
    
-        border-top-left-radius: 40px;
-        border-top-right-radius: 40px;
-        border-bottom-left-radius: 40px;
-        border-bottom-right-radius: 40px;
    text-align: center;
    font-family: 'Indie Flower', cursive;
 }
