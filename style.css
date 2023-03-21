@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
 h1 {
     font-size: 4rem;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
@@ -140,8 +141,11 @@ body {
     text-align: center;
     max-width: 600px;
     width: 90%;
+    font-family: 'Sacramento', cursive;
+    font-size: 3rem;
     
     
   }
   
+
 
